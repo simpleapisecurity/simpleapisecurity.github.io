@@ -1,0 +1,12 @@
+---
+layout: blog
+---
+
+{% for post in site.posts limit:10 %}
+<h2 class="blog-post-title">{{ post.title }}</h2>
+<p class="blog-post-meta text-muted">{{ post.date | date: "%B %-d, %Y" }}</p>
+{{ post.excerpt }}
+
+<a href="{{ post.url }}#disqus_thread">Comment</a>
+<hr/>
+{% endfor %}
