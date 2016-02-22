@@ -1,6 +1,8 @@
 # Simple API Security Website
 [![Gitter](https://badges.gitter.im/simpleapisecurity/simpleapisecurity.github.io.svg)](https://gitter.im/simpleapisecurity/simpleapisecurity.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
+[![Join the chat at https://gitter.im/simpleapisecurity/simpleapisecurity.github.io](https://badges.gitter.im/simpleapisecurity/simpleapisecurity.github.io.svg)](https://gitter.im/simpleapisecurity/simpleapisecurity.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is the website for [Simple API Security](https://simpleapisecurity.github.io) and any changes to this repository
 are immediately reflected in the website.
 
