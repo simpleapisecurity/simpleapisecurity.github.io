@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Simple API Security License"
+---
+
 The MIT License (MIT)
 =====================
 
